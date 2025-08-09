@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vinay Kumar</h1>
-<h3 align="center">I’m a passionate software developer with a strong background in computer science and a keen interest in distributed systems, network security,Machine Learning and data analysis. I enjoy working with various programming languages and tools to solve complex problems and build innovative solutions</h3>
+<h3 align="center">I’m a Software Engineer with a strong background in computer science and a keen interest in distributed systems, network security,Machine Learning and data analysis. I enjoy working with various programming languages and tools to solve complex problems and build innovative solutions</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinayk028?tab=repositories](https://github.com/vinayk028?tab=repositories)
 
